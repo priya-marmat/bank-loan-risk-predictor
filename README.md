@@ -10,14 +10,6 @@ To analyze loan applicants and predict **how risky** a particular loan applicati
 
 ---
 
-## 🌐 Live Demo
-
-👉 [Click here to try the app](https://your-app-link.streamlit.app)
-
-> Enter applicant details and get an instant risk score!
-
----
-
 ## 📊 Dataset
 
 - **Main Dataset** → 3,00,000+ loan applications
